@@ -1,9 +1,0 @@
-# Directory of saved models
-models/
-
-# Directory of TensorBoard runs
-runs/
-
-figures/
-
-pykan_requirements.txt
